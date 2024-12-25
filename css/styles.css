@@ -462,18 +462,16 @@ gap: 24px;
 .page-footer-container {
     display: flex;
     align-items: baseline;
-    width: 100%;
+    margin-left: 156px;
 }
 
 .container-footer-logo {
     margin-right: 120px;
-    margin-left: 156px;
-    padding: 16px 0;
 }
 
 .footer-logo {
     display: inline-block;
-    margin: 0;
+    margin: 16px;
 }
 
 .footer-text {
